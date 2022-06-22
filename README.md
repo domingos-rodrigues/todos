@@ -5,7 +5,7 @@
 
 # Installation ##
 
-## Instal composer (if you don't have it) ##
+## Install composer (if you don't have it) ##
 
 Laravel uses php8.0 (or higher) - if don'n have it please install
 
