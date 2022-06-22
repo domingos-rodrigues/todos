@@ -44,12 +44,13 @@ Run
  
 Go to a browser to the url (substitute 127.0.0.1:8000 for your locals)
 
- 127.0.0.1:8000/register
- 127.0.0.1:8000/login
+- 127.0.0.1:8000/register
+- 127.0.0.1:8000/login
 
 ## Notes ##
 
 No use of versions. (No time but is easy)
+
 The documentation for the api is in 127.0.0.1:8000/docs
 
 
